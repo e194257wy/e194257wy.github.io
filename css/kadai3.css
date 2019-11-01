@@ -1,0 +1,27 @@
+h1{
+    color: black;
+    font-family: "Impact";
+    text-align: center;
+    background-color: indianred;
+}
+
+h2{
+    color: darkgreen;
+    font-family: "Impact";
+    text-align: center;
+    background-color: cornsilk;
+}
+
+h4{
+    color: lawngreen;
+}
+
+p{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+body{
+    background-image: url("../images/adidas01.jfif");
+    background-attachment: fixed;
+}
