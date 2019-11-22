@@ -1,0 +1,36 @@
+body{
+    background-image: url("../images/adidas01.jfif");
+    background-attachment: fixed;
+}
+
+.waka{
+    text-align: center;
+    color : hotpink;
+    background-color: black
+}
+
+.hashi{
+    text-align: center;
+    color :lightblue;
+    background-color: snow;
+}
+
+.soccer{
+    text-align: center;
+    color :white;
+    background-color: green;
+}
+
+.rink{
+    text-align: center;
+    color :brown;
+    background-color: plum;
+}
+
+a{
+    color: aliceblue;
+}
+
+p{
+    color: chartreuse;
+}
