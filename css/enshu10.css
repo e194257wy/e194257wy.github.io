@@ -1,0 +1,76 @@
+div.title{
+    width: 1000px;
+    height: 100px;
+    background-color: aquamarine;
+    font-size: 70px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    padding: 10px 0px 0px 20px
+}
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    height: 40px;   
+    display: inline-block;
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Impact";
+    border: 5px dotted pink;
+}
+
+span.image1{
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    background-color: black;
+    color:white;
+}
+
+span.image2{
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+    background-color: black;
+    color:white;
+}
+
+div.article{
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    width: 1000px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 15px;
+}
+
+div.footer{
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    width: 1000px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+div.menu{
+    width: 1000px;
+}
+
+div.images{
+    font-size: 0;
+    width: 1000px;
+}
