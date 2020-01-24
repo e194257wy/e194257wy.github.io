@@ -1,0 +1,165 @@
+body{
+    background-image: url("../images/concrete-wall-texture06.jpg") ;
+    background-attachment: fixed;
+}
+
+div.title{
+    margin: auto;
+    font-size: 30px;
+    font-family: Yu Mincho;
+    text-align: center;
+    background-image: url("../images/ototsu2.jpg");
+    color: white;
+    width: 1000px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+span.main{
+    color: white;
+    background-image: url("../images/degutinashi-red.jpg");
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    height: 35px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+    border: 5px dotted blue;
+}
+
+span.menuitem{
+    color: white;
+    background-image: url("../images/degutinashi-blue.jpg");
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    height: 35px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+    border: 5px dotted red;
+}
+
+div.menu{
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+span.image1{
+    color: white;
+    background-image: url(../images/neymar.png);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+    margin-right: 50px;
+}
+
+span.image2{
+    color: white;
+    background-image: url(../images/odegaad.png);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+    margin-right: 50px;
+}
+
+span.image3{
+    color: white;
+    background-image: url(../images/yusei-soocer.png);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+}
+
+span.image4{
+    color: white;
+    background-image:url(../images/paris.png);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+    margin-right: 50px;
+}
+
+span.image5{
+    color: white;
+    background-image: url(../images/realsosieda.png);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+    margin-right: 50px;
+}
+
+span.image6{
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 15px;
+    text-align: center;
+    font-family: Bookman Old Style;
+    background-image: url(../images/inaire.png);
+}
+
+p{
+    background-color: white;
+}
+
+a.menu{
+    color: white;
+    background-color: transparent;
+    font-size: 30px;
+    font-family: Bookman Old Style;
+    text-decoration: none;
+}
+
+div.contentsup{
+    font-size: 0px;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+div.contentsdown{
+    font-size: 0px;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+div.footer{
+    background-image: url(../images/ototsu2.jpg);
+    color: white;
+    margin: auto;
+    width: 975px;
+    height: 40px;
+    background-color: cadetblue;
+    font-family: Yu Mincho;
+    text-align: right;
+    font-size: 20px;
+    padding: 10px 25px 0px 0px;
+}
+
+table{
+    font-size: 9px;
+    background-color: black;
+    text-align: center;
+    margin: auto;
+}
